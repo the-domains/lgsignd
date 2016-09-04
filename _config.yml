@@ -1,20 +1,4 @@
-name: LGsignD
-favicon: null
-layout_spectrum: 0.74647
 typography_spectrum: 0.82725
-title: Handmade Knitted Dolls and Stuffed Animal Toys
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#b376d4'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 0.5625
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74647
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: LGsignD
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: ABOUT
+    id: 6f19d181-04b8-4840-a494-574948bf944d
+    type: content
+favicon: null
+title: Handmade Knitted Dolls and Stuffed Animal Toys
 purpose: []
