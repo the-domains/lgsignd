@@ -1,33 +1,124 @@
-typography_spectrum: 0.82725
+typography_spectrum: 0.6512313320421347
+content_rating:
+  adult: false
 color:
   brandColors:
-    - '#b376d4'
-    - '#c3ad8d'
-    - '#ffffff'
-    - '#fee6fe'
-    - '#c5a0d6'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5625
-  rhythmicContrast: 0
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+  brandStrength: 0.4220335879186076
+  lightness: 0.8689352399083131
+  saturation: 0.8795199666050548
+  rhythmicContrast: 0.6751882881970873
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3f24056-7f2c-4184-9b91-01e7e562cdad.jpg
   type: null
   appId: null
-layout_spectrum: 0.74647
+layout_spectrum: 0.3687975812660954
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: LG Larsen
+  email: lgsignd@gmail.com
+  url: 'https://thegrid.ai/lgsignd/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ebaf837-2c23-47ef-b2a1-9f02eff5b3ad.jpg
 name: LGsignD
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: ABOUT
-    id: 6f19d181-04b8-4840-a494-574948bf944d
+  - name: Once upon a time...
+    id: ce2b013c-7cc3-46db-ba36-865ed63ae25b
     type: content
-favicon: null
-title: Handmade Knitted Dolls and Stuffed Animal Toys
-purpose: []
+  - name: Christmas Elf Nisse
+    id: 461041a6-6e4d-4112-b731-17d190aadb90
+    type: content
+  - name: Elf Gnome
+    id: d19938e0-5089-4077-b97b-6de2728387af
+    type: content
+  - name: 'Lamb '
+    id: 7c18940b-1a4a-4311-8817-d18c3c2d32db
+    type: content
+  - name: Ladybird
+    id: abbb9207-f4ec-4968-8029-e9b1c79571a4
+    type: content
+  - name: Bee
+    id: a0829106-5a6a-4960-98ae-52301b4f42ae
+    type: content
+  - name: Boy Mouse
+    id: a9df4133-7470-425b-b4ed-eb1abe539e11
+    type: content
+  - name: Girl Mouse
+    id: 52a99df8-1208-4c69-847f-31e186908db6
+    type: content
+  - name: Rabbit
+    id: 7d8a79c3-7e31-4cbb-b554-d55590a870dc
+    type: content
+  - name: Elephant
+    id: cebfa2f6-4366-4640-bce1-aa94d5e996a2
+    type: content
+  - name: Teddy Bear
+    id: 364b47af-aecd-47be-b421-699709cac7ac
+    type: content
+  - name: Angel
+    id: 1720eb9c-d6d8-41c5-95cf-cae522a8f1f6
+    type: content
+  - name: Snowman
+    id: 56ffe300-1c57-4107-953f-2e038946be93
+    type: content
+  - name: Santa Claus
+    id: f460536e-43cb-41bc-9df8-4f46bfaaf845
+    type: content
+  - name: Pink & Blue
+    id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
+    type: content
+  - name: LGsamiCrafts & Mii
+    url: 'https://thegrid.ai/lgsamicrafts/'
+    type: external
+  - name: LG -the Creator
+    url: 'https://thegrid.ai/lg-larsen/'
+    type: external
+  - name: OurFriends
+    url: 'https://thegrid.ai/ourfriends/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f19788-ef3a-42b7-89eb-d5ac60eabbcb.jpg
+title: Knitted Dolls and Stuffed Animal Toys
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/462a58e9-0e4a-4932-8263-0b60f1be24ef.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/462a58e9-0e4a-4932-8263-0b60f1be24ef.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Made by Hand
+purpose:
+  - type: contact
+    url: 'mailto:lgsignd@gmail.com'
+    label: Contact
+github: true
