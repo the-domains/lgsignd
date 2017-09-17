@@ -27,7 +27,8 @@ author:
   name: LG Larsen
   email: lgsignd@gmail.com
   url: 'https://thegrid.ai/lgsignd/'
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/83090528-8a76-4b17-b716-eace5c18e314.jpg
 name: LGsignD
 cta:
   domain: null
