@@ -34,6 +34,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: SHOP
+    url: 'https://www.etsy.com/shop/lgsignd/'
+    type: external
   - name: Contact
     id: de9758a4-8a37-484f-ac1b-24d93721b0af
     type: content
@@ -46,9 +49,6 @@ navigation:
   - name: Elf Gnome
     id: d19938e0-5089-4077-b97b-6de2728387af
     type: content
-  - name: SHOP
-    url: 'https://www.etsy.com/shop/lgsignd/'
-    type: external
   - name: 'Lamb '
     id: 7c18940b-1a4a-4311-8817-d18c3c2d32db
     type: content
