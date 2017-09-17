@@ -28,7 +28,7 @@ author:
   email: lgsignd@gmail.com
   url: 'https://thegrid.ai/lgsignd/'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/83090528-8a76-4b17-b716-eace5c18e314.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/35f6f633-d966-46f2-9671-2089d1fb6eae.jpg
 name: LGsignD
 cta:
   domain: null
@@ -116,7 +116,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
