@@ -79,6 +79,9 @@ navigation:
   - name: Santa Claus
     id: f460536e-43cb-41bc-9df8-4f46bfaaf845
     type: content
+  - name: SHOP
+    url: 'https://www.etsy.com/shop/lgsignd/'
+    type: external
   - name: Pink & Blue
     id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
     type: content
@@ -90,9 +93,6 @@ navigation:
     type: external
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
-    type: external
-  - name: SHOP
-    url: 'https://www.etsy.com/shop/lgsignd/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f19788-ef3a-42b7-89eb-d5ac60eabbcb.jpg
