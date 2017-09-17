@@ -46,6 +46,9 @@ navigation:
   - name: Elf Gnome
     id: d19938e0-5089-4077-b97b-6de2728387af
     type: content
+  - name: SHOP
+    url: 'https://www.etsy.com/shop/lgsignd/'
+    type: external
   - name: 'Lamb '
     id: 7c18940b-1a4a-4311-8817-d18c3c2d32db
     type: content
@@ -58,9 +61,6 @@ navigation:
   - name: Boy Mouse
     id: a9df4133-7470-425b-b4ed-eb1abe539e11
     type: content
-  - name: SHOP
-    url: 'https://www.etsy.com/shop/lgsignd/'
-    type: external
   - name: Girl Mouse
     id: 52a99df8-1208-4c69-847f-31e186908db6
     type: content
