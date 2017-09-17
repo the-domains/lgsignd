@@ -91,6 +91,9 @@ navigation:
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
     type: external
+  - name: SHOP
+    url: 'https://www.etsy.com/shop/lgsignd/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f19788-ef3a-42b7-89eb-d5ac60eabbcb.jpg
 title: Knitted Dolls and Stuffed Animal Toys
