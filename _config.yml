@@ -1,23 +1,24 @@
-typography_spectrum: 0.6512313320421347
+typography_spectrum: 0.5412299925466945
 content_rating:
   adult: false
 color:
   brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
-  brandStrength: 0.4220335879186076
-  lightness: 0.8689352399083131
-  saturation: 0.8795199666050548
-  rhythmicContrast: 0.6751882881970873
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+  brandStrength: 0.2970216609787491
+  lightness: 0.6481999053058243
+  saturation: 0.6833093237382646
+  rhythmicContrast: 0.23817184827272034
+github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3f24056-7f2c-4184-9b91-01e7e562cdad.jpg
   type: null
   appId: null
-layout_spectrum: 0.3687975812660954
+layout_spectrum: 0.3253560966694967
 analytics:
   google: null
   facebook: null
@@ -34,6 +35,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Contact
+    id: de9758a4-8a37-484f-ac1b-24d93721b0af
+    type: content
   - name: Once upon a time...
     id: ce2b013c-7cc3-46db-ba36-865ed63ae25b
     type: content
@@ -118,7 +122,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Made by Hand
 purpose:
-  - type: contact
-    url: 'mailto:lgsignd@gmail.com'
-    label: Contact
-github: true
+  - type: external
+    url: 'https://www.etsy.com/shop/lgsignd/'
+    label: SHOP
