@@ -59,6 +59,9 @@ navigation:
   - name: Boy Mouse
     id: a9df4133-7470-425b-b4ed-eb1abe539e11
     type: content
+  - name: Contact
+    id: 22ae5d38-2a79-49bd-a831-c7a3f43cb7ac
+    type: content
   - name: Girl Mouse
     id: 52a99df8-1208-4c69-847f-31e186908db6
     type: content
@@ -70,9 +73,6 @@ navigation:
     type: content
   - name: Teddy Bear
     id: 364b47af-aecd-47be-b421-699709cac7ac
-    type: content
-  - name: Contact
-    id: 22ae5d38-2a79-49bd-a831-c7a3f43cb7ac
     type: content
   - name: Angel
     id: 1720eb9c-d6d8-41c5-95cf-cae522a8f1f6
