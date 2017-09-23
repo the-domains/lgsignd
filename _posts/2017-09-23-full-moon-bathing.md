@@ -1,15 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2017-09-23T14:42:42.007Z'
-dateModified: '2017-09-23T14:42:41.087Z'
+datePublished: '2017-09-23T14:47:32.912Z'
+dateModified: '2017-09-23T14:47:32.799Z'
 title: Full Moon Bathing
 publisher: {}
 via: {}
 inFeed: true
+sourcePath: _posts/2017-09-23-full-moon-bathing.md
 starred: false
 datePublishedOriginal: '2017-09-23T14:42:39.482Z'
-sourcePath: _posts/2017-09-23-full-moon-bathing.md
 _context: 'http://schema.org'
 _type: Article
 
