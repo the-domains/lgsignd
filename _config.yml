@@ -80,6 +80,9 @@ navigation:
   - name: Santa Claus
     id: f460536e-43cb-41bc-9df8-4f46bfaaf845
     type: content
+  - name: Contact
+    id: 22ae5d38-2a79-49bd-a831-c7a3f43cb7ac
+    type: content
   - name: Pink & Blue
     id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
     type: content
@@ -92,9 +95,6 @@ navigation:
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
     type: external
-  - name: Contact
-    id: 22ae5d38-2a79-49bd-a831-c7a3f43cb7ac
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f19788-ef3a-42b7-89eb-d5ac60eabbcb.jpg
 title: Knitted Dolls and Stuffed Animal Toys
