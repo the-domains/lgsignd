@@ -92,6 +92,9 @@ navigation:
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
     type: external
+  - name: Contact
+    id: 22ae5d38-2a79-49bd-a831-c7a3f43cb7ac
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f19788-ef3a-42b7-89eb-d5ac60eabbcb.jpg
 title: Knitted Dolls and Stuffed Animal Toys
@@ -104,19 +107,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/54683ea3-e92b-41a2-a225-d242ac34f535.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
