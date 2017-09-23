@@ -35,14 +35,14 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Contact
+    id: 22ae5d38-2a79-49bd-a831-c7a3f43cb7ac
+    type: content
   - name: SHOP
     url: 'https://www.etsy.com/shop/lgsignd/'
     type: external
   - name: Once upon a time...
     id: ce2b013c-7cc3-46db-ba36-865ed63ae25b
-    type: content
-  - name: Contact
-    id: 22ae5d38-2a79-49bd-a831-c7a3f43cb7ac
     type: content
   - name: Christmas Elf Nisse
     id: 461041a6-6e4d-4112-b731-17d190aadb90
