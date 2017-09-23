@@ -1,8 +1,8 @@
 ---
 description: ''
 author: []
-datePublished: '2017-09-23T14:47:32.912Z'
-dateModified: '2017-09-23T14:47:32.799Z'
+datePublished: '2017-09-23T14:56:44.953Z'
+dateModified: '2017-09-23T14:56:44.031Z'
 title: Full Moon Bathing
 publisher: {}
 via: {}
@@ -15,4 +15,4 @@ _type: Article
 
 ---
 ### _Full Moon Bathing_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61b03d15-7682-4998-9bc8-2e040aef3c5f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4c5422b-c827-4c7e-87d3-09b0b71cba9c.jpg)
