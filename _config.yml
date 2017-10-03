@@ -97,7 +97,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f19788-ef3a-42b7-89eb-d5ac60eabbcb.jpg
-title: Knitted Dolls and Stuffed Animal Toys
+title: Knitted Dolls  &  Stuffed Animal Toys
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
