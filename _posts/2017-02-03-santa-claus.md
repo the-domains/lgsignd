@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T16:01:22.696Z'
-datePublished: '2017-09-23T16:01:23.505Z'
+dateModified: '2017-10-03T21:57:47.349Z'
+datePublished: '2017-10-03T21:57:48.358Z'
 title: Santa Claus
 author: []
 publisher: {}
@@ -35,4 +35,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8674fe0-0e49-43cb-893e-7996f5daee78.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb0ae338-3db7-45ce-903e-2b88f4e889dd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/786580c4-7c0a-417a-9cf5-7b671a60e7ce.jpg)
+
+Real Beard SANTA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80a0f120-b428-4454-9f39-302592a3a1e5.jpg)
