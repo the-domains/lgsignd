@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-22T21:21:04.984Z'
-datePublished: '2017-10-22T21:21:06.422Z'
+dateModified: '2017-10-22T21:32:42.218Z'
+datePublished: '2017-10-22T21:32:43.336Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # **Girl Mouse**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a6c6b9f-5c12-4b6a-8026-e1b9cff5e66a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84e90c3-deca-4333-a92e-02b3d7cd7ee9.jpg)
 
 ---
 
