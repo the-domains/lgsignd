@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-22T23:37:11.409Z'
-datePublished: '2017-10-22T23:37:11.994Z'
+dateModified: '2017-11-11T22:57:31.186Z'
+datePublished: '2017-11-11T22:57:32.398Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -53,3 +53,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d1537fc-688a-44f4-a159-91bf916476b0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67981d39-ed9d-445d-b359-56feb777562a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f18882e9-2d57-4a50-ae60-f5a72c4a390b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/767a953a-6b62-4c2c-9576-2a6a6e391ad8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134f5d33-2a0d-4427-9dfc-5fe0e0d22566.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59585aed-e336-429a-8d96-a7a95e92082a.jpg)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Ft8XZ-_EgWB8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt8XZ-_EgWB8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft8XZ-_EgWB8%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
