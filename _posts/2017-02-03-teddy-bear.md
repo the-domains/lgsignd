@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-22T23:37:11.409Z'
-datePublished: '2017-10-22T23:37:12.015Z'
+dateModified: '2017-11-11T23:06:41.993Z'
+datePublished: '2017-11-11T23:06:43.851Z'
 title: Teddy Bear
 author: []
 publisher: {}
@@ -40,3 +40,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f938bd-77e0-47a8-aef7-a05b2b9d90ba.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc179fce-ef05-4976-b792-20dff27116e7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3785ba-d251-4f18-9122-d0c1e772889a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a99337cb-85f3-4eae-bf78-68ae61af9a15.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ef33c2-1050-4c27-b017-116833cd234e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14f61537-d01b-4868-be58-61016e53d044.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2d8128f-bc9d-4d3e-afad-a641a6164f74.jpg)
