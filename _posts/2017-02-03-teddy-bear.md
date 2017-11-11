@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-11T23:36:51.516Z'
-datePublished: '2017-11-11T23:36:52.357Z'
+dateModified: '2017-11-11T23:36:57.242Z'
+datePublished: '2017-11-11T23:36:58.051Z'
 title: Teddy Bear
 author: []
 publisher: {}
