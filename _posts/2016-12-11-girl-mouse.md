@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-12T14:38:36.642Z'
-datePublished: '2017-11-12T14:38:38.123Z'
+dateModified: '2017-11-12T14:50:56.123Z'
+datePublished: '2017-11-12T14:50:57.860Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -34,9 +34,10 @@ _type: Article
   6. gray - olive goldenrod
   7. white - dark blue
   8. gray - orange
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c52bfe8-da85-4688-861b-8a742c14d220.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67981d39-ed9d-445d-b359-56feb777562a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21a80e1c-4f7e-40f9-bb14-70e9bec98a3c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/260a3a64-e44e-4d3d-8c97-9a7b7767ef8d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f7a8a23-8eba-47cf-a66f-df5508fb8b69.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cbeb087-f807-4f63-aa0c-5fecd3660a66.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1d2c52-ca2c-49fb-ba7c-8acde2bc077c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e548296c-5f07-4386-be0f-2f6c111c780b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e65c8b4-0e5e-4bad-9480-54e0a505c540.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ef7e22d-6621-4138-9724-9af982d945ce.jpg)
