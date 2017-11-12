@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-12T14:57:26.795Z'
-datePublished: '2017-11-12T14:57:28.305Z'
+dateModified: '2017-11-12T15:00:08.332Z'
+datePublished: '2017-11-12T15:00:10.455Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -40,6 +40,7 @@ _type: Article
 # ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cbeb087-f807-4f63-aa0c-5fecd3660a66.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1d2c52-ca2c-49fb-ba7c-8acde2bc077c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59585aed-e336-429a-8d96-a7a95e92082a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e548296c-5f07-4386-be0f-2f6c111c780b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e65c8b4-0e5e-4bad-9480-54e0a505c540.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ef7e22d-6621-4138-9724-9af982d945ce.jpg)
@@ -57,7 +58,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d226ea98-9a6f-4514-8578-0548feb907fb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f18882e9-2d57-4a50-ae60-f5a72c4a390b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/767a953a-6b62-4c2c-9576-2a6a6e391ad8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59585aed-e336-429a-8d96-a7a95e92082a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf5bc5a2-1e02-4eaa-8463-65f4390db934.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Ft8XZ-_EgWB8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt8XZ-_EgWB8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft8XZ-_EgWB8%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
