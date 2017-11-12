@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-12T15:00:08.332Z'
-datePublished: '2017-11-12T15:00:10.455Z'
+dateModified: '2017-11-12T15:03:19.979Z'
+datePublished: '2017-11-12T15:03:22.582Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -35,7 +35,6 @@ _type: Article
   7. white - dark blue
   8. gray - orange
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/260a3a64-e44e-4d3d-8c97-9a7b7767ef8d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f7a8a23-8eba-47cf-a66f-df5508fb8b69.jpg)
 
 # ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cbeb087-f807-4f63-aa0c-5fecd3660a66.jpg)
