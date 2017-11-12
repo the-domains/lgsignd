@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-12T15:04:21.536Z'
-datePublished: '2017-11-12T15:04:22.849Z'
+dateModified: '2017-11-12T15:10:01.807Z'
+datePublished: '2017-11-12T15:10:03.486Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -38,7 +38,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6fb8be2-f41c-4b48-a138-b0c9f7269275.jpg)
 
 # ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cbeb087-f807-4f63-aa0c-5fecd3660a66.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/844ae764-b75a-4dbf-ad27-3bf0313ff7a2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1d2c52-ca2c-49fb-ba7c-8acde2bc077c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59585aed-e336-429a-8d96-a7a95e92082a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e548296c-5f07-4386-be0f-2f6c111c780b.jpg)
