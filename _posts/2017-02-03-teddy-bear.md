@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-12T15:31:28.662Z'
-datePublished: '2017-11-12T15:31:30.092Z'
+dateModified: '2017-11-12T16:21:23.014Z'
+datePublished: '2017-11-12T16:21:23.782Z'
 title: Teddy Bear
 author: []
 publisher: {}
@@ -35,8 +35,8 @@ _type: Article
 
 # ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2311a9ed-21eb-408b-946d-07d0771cc7c2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74e64391-50aa-4721-ae62-bab443a1323c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7879107-67c5-4708-8fcc-17c51ca47ad4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d525735-01bf-4e83-9d85-77d5ba4ef63e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd69a897-6e14-498f-816b-5b64085d8c97.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5296e528-9097-4633-baa8-6d060a616f20.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e79b03f0-28a0-40be-847a-cb5a4509ad7f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca817d39-f3ab-4484-bc41-731ecd2da017.jpg)
@@ -46,7 +46,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a99337cb-85f3-4eae-bf78-68ae61af9a15.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2d8128f-bc9d-4d3e-afad-a641a6164f74.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ef33c2-1050-4c27-b017-116833cd234e.jpg)
-![beige- brown/yellow](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f938bd-77e0-47a8-aef7-a05b2b9d90ba.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7c911d2-3ac1-4d4a-967c-f54d47c58f5b.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOD1Dl8gAUv0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOD1Dl8gAUv0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOD1Dl8gAUv0%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
