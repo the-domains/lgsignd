@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-11-12T13:43:57.658Z'
+datePublished: '2017-11-12T13:49:30.087Z'
 sourcePath: _posts/2016-09-04-hand-knitted-boy-mouse-wearing-removable-clothes.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-11-12T13:43:56.069Z'
+dateModified: '2017-11-12T13:49:29.212Z'
 title: Boy Mouse
 publisher: {}
 description: ''
@@ -35,7 +35,6 @@ _type: Article
   6. gray - white/gray
   7. gray - lime green
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/756acbf0-7cd3-4370-bd9b-cdcaca245d5a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74bcc98c-aa01-49c5-876a-968748ed67b3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e28d6fdf-0d57-4c3b-b8d6-3213edb0559b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd0c65af-f828-4c31-96a4-89c37f70622a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c71f46c-8dce-49f0-a1b1-e0d9142c160a.jpg)
