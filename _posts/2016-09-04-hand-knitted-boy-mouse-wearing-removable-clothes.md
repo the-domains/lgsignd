@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-11-12T13:12:01.817Z'
+datePublished: '2017-11-12T13:26:33.794Z'
 sourcePath: _posts/2016-09-04-hand-knitted-boy-mouse-wearing-removable-clothes.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-11-12T13:11:59.742Z'
+dateModified: '2017-11-12T13:26:33.062Z'
 title: Boy Mouse
 publisher: {}
 description: ''
@@ -35,6 +35,7 @@ _type: Article
   6. gray - white/gray
   7. gray - lime green
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3db46ca-c877-46c7-8a32-c778a1ba3949.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74bcc98c-aa01-49c5-876a-968748ed67b3.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e28d6fdf-0d57-4c3b-b8d6-3213edb0559b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd0c65af-f828-4c31-96a4-89c37f70622a.jpg)
@@ -46,6 +47,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7921d8a-59fa-4842-bc86-a25586469bc4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3975395d-2349-41ed-8b5b-2de39b805c5b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f7ec4c6-4e4c-4a8d-8ae9-a05163b734db.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/756acbf0-7cd3-4370-bd9b-cdcaca245d5a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f57c41b3-0841-45fb-a20b-f7e8b1049af1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea2d1f26-285c-4f7d-b45b-f96af36401ac.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dde0b63-cbaf-4a63-b60c-33e70b6312d3.jpg)
