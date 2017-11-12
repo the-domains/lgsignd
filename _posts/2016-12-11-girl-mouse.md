@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-11T22:59:21.941Z'
-datePublished: '2017-11-11T22:59:23.709Z'
+dateModified: '2017-11-12T14:38:01.277Z'
+datePublished: '2017-11-12T14:38:02.820Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -34,6 +34,8 @@ _type: Article
   6. gray - olive goldenrod
   7. white - dark blue
   8. gray - orange
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c52bfe8-da85-4688-861b-8a742c14d220.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67981d39-ed9d-445d-b359-56feb777562a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21a80e1c-4f7e-40f9-bb14-70e9bec98a3c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e548296c-5f07-4386-be0f-2f6c111c780b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e65c8b4-0e5e-4bad-9480-54e0a505c540.jpg)
@@ -42,8 +44,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3400d66c-c694-4f4f-8be3-42ffe7677b60.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af6d2185-2b9a-46ec-8755-26ef2e4758ff.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2205a283-b3e9-403c-957b-f31c0eb9fd82.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c52bfe8-da85-4688-861b-8a742c14d220.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf5bc5a2-1e02-4eaa-8463-65f4390db934.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/946a48b4-af73-4105-9dd4-6048eeca2dd3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47135b81-5b6a-402c-bf67-27197c376ce2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bc590b4-c6f7-41fa-9654-ecd2cb7de86a.jpg)
@@ -51,12 +51,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/018b3449-dc6c-4be9-ab2d-440e8b42899c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d226ea98-9a6f-4514-8578-0548feb907fb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d1537fc-688a-44f4-a159-91bf916476b0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67981d39-ed9d-445d-b359-56feb777562a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134f5d33-2a0d-4427-9dfc-5fe0e0d22566.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f18882e9-2d57-4a50-ae60-f5a72c4a390b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/767a953a-6b62-4c2c-9576-2a6a6e391ad8.jpg)
-
-# ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/134f5d33-2a0d-4427-9dfc-5fe0e0d22566.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59585aed-e336-429a-8d96-a7a95e92082a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf5bc5a2-1e02-4eaa-8463-65f4390db934.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Ft8XZ-_EgWB8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt8XZ-_EgWB8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft8XZ-_EgWB8%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
