@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-11-12T13:04:03.621Z'
+datePublished: '2017-11-12T13:06:59.726Z'
 sourcePath: _posts/2016-09-04-hand-knitted-boy-mouse-wearing-removable-clothes.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-11-12T13:04:02.176Z'
+dateModified: '2017-11-12T13:06:58.624Z'
 title: Boy Mouse
 publisher: {}
 description: ''
@@ -34,6 +34,8 @@ _type: Article
   5. white - dark blue
   6. gray - white/gray
   7. gray - lime green
+
+# ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3db46ca-c877-46c7-8a32-c778a1ba3949.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e28d6fdf-0d57-4c3b-b8d6-3213edb0559b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd0c65af-f828-4c31-96a4-89c37f70622a.jpg)
@@ -55,6 +57,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc85bdea-08b2-4993-bf3a-1b73fc656457.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1a7ae3-8346-4f7b-8197-c8fe151e776c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3645c03-00a5-461c-b48e-f1b18283aa3d.jpg)
+
+# ---
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkZyy9Sk3Bjs%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkZyy9Sk3Bjs&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkZyy9Sk3Bjs%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
