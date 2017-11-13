@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-22T21:56:04.872Z'
-datePublished: '2017-10-22T21:56:05.951Z'
+dateModified: '2017-11-13T16:38:32.027Z'
+datePublished: '2017-11-13T16:38:33.282Z'
 title: Santa Claus
 author: []
 publisher: {}
@@ -28,13 +28,19 @@ _type: Article
 * Available in**two shades of red:**
   1. dark bordeaux
   2. dark red
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a674f8ec-1e24-4140-990c-e2981e24b39a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b42ed13e-47a7-4780-b983-ba823568d4b8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f788cc22-67f9-4159-a6ce-9e880800a63a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0b3e087-0486-46d4-91d4-4275c0dcf272.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8674fe0-0e49-43cb-893e-7996f5daee78.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb0ae338-3db7-45ce-903e-2b88f4e889dd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/786580c4-7c0a-417a-9cf5-7b671a60e7ce.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b6bb131-cc01-49e7-880c-1a4bc4f964cc.jpg)
 
 Real Beard SANTA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80a0f120-b428-4454-9f39-302592a3a1e5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a674f8ec-1e24-4140-990c-e2981e24b39a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b42ed13e-47a7-4780-b983-ba823568d4b8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb0ae338-3db7-45ce-903e-2b88f4e889dd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0b3e087-0486-46d4-91d4-4275c0dcf272.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8674fe0-0e49-43cb-893e-7996f5daee78.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/786580c4-7c0a-417a-9cf5-7b671a60e7ce.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d42a934-43ed-47e8-a0e5-ab9d45842d49.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d648a297-3590-4011-baed-e7b0911bc10d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9b3b6d-b8cd-4701-a080-297adc7ff54b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e36d8374-5674-4cf1-98a7-b60a378d6601.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2c76dbd-e0cc-468b-8dcc-3b6679f17b02.jpg)
