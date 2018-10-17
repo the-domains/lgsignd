@@ -126,8 +126,5 @@ content:
 description: HandDeeCraft completely Made by Hand
 purpose:
   - type: external
-    url: 'https://www.etsy.com/shop/lgsignd/'
-    label: SHOP
-  - type: external
     url: 'https://www.facebook.com/HandDeeCraft/'
     label: '@HandDeeCraft'
