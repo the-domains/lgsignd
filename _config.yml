@@ -68,9 +68,6 @@ navigation:
   - name: Ladybird
     id: abbb9207-f4ec-4968-8029-e9b1c79571a4
     type: content
-  - name: Bee
-    id: a0829106-5a6a-4960-98ae-52301b4f42ae
-    type: content
   - name: Rabbit
     id: 7d8a79c3-7e31-4cbb-b554-d55590a870dc
     type: content
@@ -79,6 +76,9 @@ navigation:
     type: content
   - name: Angel
     id: 1720eb9c-d6d8-41c5-95cf-cae522a8f1f6
+    type: content
+  - name: Bee
+    id: a0829106-5a6a-4960-98ae-52301b4f42ae
     type: content
   - name: Pink & Blue
     id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
