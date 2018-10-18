@@ -44,11 +44,11 @@ navigation:
   - name: Christmas Elf Nisse
     id: 461041a6-6e4d-4112-b731-17d190aadb90
     type: content
-  - name: Boy Mouse
-    id: a9df4133-7470-425b-b4ed-eb1abe539e11
-    type: content
   - name: Elf Gnome
     id: d19938e0-5089-4077-b97b-6de2728387af
+    type: content
+  - name: Boy Mouse
+    id: a9df4133-7470-425b-b4ed-eb1abe539e11
     type: content
   - name: 'Lamb '
     id: 7c18940b-1a4a-4311-8817-d18c3c2d32db
