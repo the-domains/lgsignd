@@ -65,6 +65,9 @@ navigation:
   - name: Bee
     id: a0829106-5a6a-4960-98ae-52301b4f42ae
     type: content
+  - name: Santa Claus
+    id: f460536e-43cb-41bc-9df8-4f46bfaaf845
+    type: content
   - name: Rabbit
     id: 7d8a79c3-7e31-4cbb-b554-d55590a870dc
     type: content
@@ -76,9 +79,6 @@ navigation:
     type: content
   - name: Snowman
     id: 56ffe300-1c57-4107-953f-2e038946be93
-    type: content
-  - name: Santa Claus
-    id: f460536e-43cb-41bc-9df8-4f46bfaaf845
     type: content
   - name: Pink & Blue
     id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
