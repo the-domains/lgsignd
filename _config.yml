@@ -47,14 +47,14 @@ navigation:
   - name: Elf Gnome
     id: d19938e0-5089-4077-b97b-6de2728387af
     type: content
+  - name: Pink & Blue
+    id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
+    type: content
   - name: Santa Claus
     id: f460536e-43cb-41bc-9df8-4f46bfaaf845
     type: content
   - name: Teddy Bear
     id: 364b47af-aecd-47be-b421-699709cac7ac
-    type: content
-  - name: Pink & Blue
-    id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
     type: content
   - name: Boy Mouse
     id: a9df4133-7470-425b-b4ed-eb1abe539e11
