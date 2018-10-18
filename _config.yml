@@ -53,6 +53,9 @@ navigation:
   - name: Teddy Bear
     id: 364b47af-aecd-47be-b421-699709cac7ac
     type: content
+  - name: Pink & Blue
+    id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
+    type: content
   - name: Boy Mouse
     id: a9df4133-7470-425b-b4ed-eb1abe539e11
     type: content
@@ -64,9 +67,6 @@ navigation:
     type: content
   - name: Elephant
     id: cebfa2f6-4366-4640-bce1-aa94d5e996a2
-    type: content
-  - name: Pink & Blue
-    id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
     type: content
   - name: Ladybird
     id: abbb9207-f4ec-4968-8029-e9b1c79571a4
