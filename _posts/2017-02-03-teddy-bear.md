@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-19T20:20:14.217Z'
-datePublished: '2018-10-19T20:20:16.193Z'
+dateModified: '2018-10-19T20:21:48.828Z'
+datePublished: '2018-10-19T20:21:50.175Z'
 title: Teddy Bear
 author: []
 publisher: {}
@@ -51,3 +51,8 @@ _type: Article
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOD1Dl8gAUv0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOD1Dl8gAUv0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOD1Dl8gAUv0%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCbILj_CYqno%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCbILj_CYqno&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCbILj_CYqno%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+[back to top][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93d161f-57a4-4959-b461-b01989cdbbdc.jpg)
+
+[0]: https://thegrid.ai/lgsignd/teddy-bear/
