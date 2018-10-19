@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-19T22:33:26.739Z'
-datePublished: '2018-10-19T22:33:27.356Z'
+dateModified: '2018-10-19T22:34:16.805Z'
+datePublished: '2018-10-19T22:34:17.749Z'
 title: Santa Claus
 author: []
 publisher: {}
@@ -52,7 +52,6 @@ Real Beard SANTA
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZyoPCMHQV44%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZyoPCMHQV44&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZyoPCMHQV44%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 [back to top][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8835832-c6b2-4a53-a561-40cf90a09811.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5ec2c6-e664-40e2-908f-e0bd685cdc81.jpg)
 
 [0]: https://thegrid.ai/lgsignd/santa-claus/
