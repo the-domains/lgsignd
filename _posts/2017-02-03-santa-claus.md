@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-19T22:15:22.593Z'
-datePublished: '2018-10-19T22:15:24.779Z'
+dateModified: '2018-10-19T22:17:05.615Z'
+datePublished: '2018-10-19T22:17:07.900Z'
 title: Santa Claus
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Article
 
 ---
 
-### Handmade knitted**Santa Claus** wearing removable clothes. The eyes and the mouth are embroidered.
+## Handmade knitted**Santa Claus** wearing removable clothes. The eyes and the mouth are embroidered.
 
 * **Height approx.** 15.35 inches (39 cm)
 * **Yarn material:** 100% acryl
@@ -50,3 +50,5 @@ Real Beard SANTA
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZHR-cG4X2_Y%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZHR-cG4X2_Y&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZHR-cG4X2_Y%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZyoPCMHQV44%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZyoPCMHQV44&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZyoPCMHQV44%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+<button data-role="cta" style="">Open</button>
