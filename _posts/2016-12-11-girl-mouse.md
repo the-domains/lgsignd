@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-19T20:30:42.834Z'
-datePublished: '2018-10-19T20:30:43.911Z'
+dateModified: '2018-10-19T20:30:56.983Z'
+datePublished: '2018-10-19T20:30:59.254Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -15,12 +15,12 @@ url: girl-mouse/index.html
 _type: Article
 
 ---
-# **Girl Mouse**
+# Girl Mouse
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84e90c3-deca-4333-a92e-02b3d7cd7ee9.jpg)
 
 ---
 
-### Handmade knitted **Girl Mouse** - stuffed animal doll wearing removable dress. The eyes and the mouth are embroidered.
+## Handmade knitted **Girl Mouse **- stuffed animal doll wearing removable dress. The eyes and the mouth are embroidered.
 
 * **Height approx. **14.57 inches (37 cm)
 * **Yarn material: **100% acryl
@@ -63,3 +63,6 @@ _type: Article
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Ft8XZ-_EgWB8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt8XZ-_EgWB8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft8XZ-_EgWB8%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/691db0d3-efd9-4d6f-af6e-2afdea1b73be.jpg)
+[back to top][0]
+
+[0]: https://thegrid.ai/lgsignd/girl-mouse/
