@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-19T22:38:33.054Z'
-datePublished: '2018-10-19T22:38:34.608Z'
+dateModified: '2018-10-19T22:39:19.817Z'
+datePublished: '2018-10-19T22:39:21.691Z'
 title: Pink & Blue
 author: []
 publisher: {}
@@ -43,7 +43,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77e57485-d9c7-460c-9391-2696c2b2a2f3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74202abb-fdbf-4dd8-979a-2d697013513a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3432347a-178e-4105-bc4f-9537d9705885.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4689ede-39c6-4693-88ae-7097506e068b.jpg)
 [back to top][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4689ede-39c6-4693-88ae-7097506e068b.jpg)
 
 [0]: https://thegrid.ai/lgsignd/pink-and-blue/
