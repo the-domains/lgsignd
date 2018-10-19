@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-19T22:38:08.867Z'
-datePublished: '2018-10-19T22:38:10.217Z'
+dateModified: '2018-10-19T22:38:14.287Z'
+datePublished: '2018-10-19T22:38:17.589Z'
 title: Pink & Blue
 author: []
 publisher: {}
