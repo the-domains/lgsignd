@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-22T21:39:19.833Z'
-datePublished: '2017-10-22T21:39:21.279Z'
+dateModified: '2018-10-19T22:35:02.705Z'
+datePublished: '2018-10-19T22:35:04.999Z'
 title: Pink & Blue
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ url: pink-and-blue/index.html
 _type: Article
 
 ---
-# **Pink & Blue**
+# Pink & Blue
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c06324c-6e88-465e-948d-9bb9b5e49403.jpg)
 
 ---
