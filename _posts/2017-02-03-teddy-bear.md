@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-12-01T15:28:48.749Z'
-datePublished: '2017-12-01T15:28:50.382Z'
+dateModified: '2018-10-19T20:20:14.217Z'
+datePublished: '2018-10-19T20:20:16.193Z'
 title: Teddy Bear
 author: []
 publisher: {}
@@ -15,12 +15,12 @@ url: teddy-bear/index.html
 _type: Article
 
 ---
-# **Teddy Bear**
+# Teddy Bear
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c0106f4-a2c3-4b05-b28d-c7cdea5451e8.jpg)
 
 ---
 
-### Handmade knitted **Teddy Bear **- stuffed animal toy wearing removable skirt or trousers. The eyes and the mouth are embroidered.
+## Handmade knitted **Teddy Bear **- stuffed animal toy wearing removable skirt or trousers. The eyes and the mouth are embroidered.
 
 * **Height approx.** 16,53 inches (42 cm)
 * **Yarn material:** 60% cotton, 20% viscose, 20% acryl
