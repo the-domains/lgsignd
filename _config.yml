@@ -83,7 +83,7 @@ navigation:
   - name: Bee
     id: a0829106-5a6a-4960-98ae-52301b4f42ae
     type: content
-  - name: 'LGsamiCrafts :::: home'
+  - name: 'LGsamiCrafts :: home'
     url: 'https://thegrid.ai/lgsamicrafts/'
     type: external
   - name: 'OurFriends :::: home'
