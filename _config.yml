@@ -86,7 +86,7 @@ navigation:
   - name: 'LGsamiCrafts :: home'
     url: 'https://thegrid.ai/lgsamicrafts/'
     type: external
-  - name: 'OurFriends :::: home'
+  - name: 'OurFriends :: home'
     url: 'https://thegrid.ai/ourfriends/'
     type: external
   - name: 'LG :::: home'
