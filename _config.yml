@@ -86,11 +86,11 @@ navigation:
   - name: 'LGsamiCrafts :::: home'
     url: 'https://thegrid.ai/lgsamicrafts/'
     type: external
-  - name: LG Larsen
-    url: 'https://thegrid.ai/lg-larsen/'
-    type: external
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
+    type: external
+  - name: LG Larsen
+    url: 'https://thegrid.ai/lg-larsen/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3f19788-ef3a-42b7-89eb-d5ac60eabbcb.jpg
