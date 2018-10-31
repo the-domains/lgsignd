@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-31T00:21:28.813Z'
-datePublished: '2018-10-31T00:21:30.760Z'
+dateModified: '2018-10-31T00:21:46.014Z'
+datePublished: '2018-10-31T00:21:47.881Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -66,5 +66,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41333f04-1607-496e-9c5e-c9d13a596f94.jpg)
 
 ..
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43da2573-44e6-49db-914f-3b8175c3e1a3.jpg)
 
 [0]: https://thegrid.ai/lgsignd/girl-mouse/
