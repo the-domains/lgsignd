@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-31T01:29:36.297Z'
-datePublished: '2018-10-31T01:29:40.319Z'
+dateModified: '2018-10-31T01:30:29.838Z'
+datePublished: '2018-10-31T01:30:31.993Z'
 title: Girl Mouse
 author: []
 publisher: {}
@@ -60,9 +60,11 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/767a953a-6b62-4c2c-9576-2a6a6e391ad8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf5bc5a2-1e02-4eaa-8463-65f4390db934.jpg)
 
+..
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aef0a49-6146-4d4f-b9e8-af1351842cec.jpg)
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Ft8XZ-_EgWB8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt8XZ-_EgWB8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft8XZ-_EgWB8%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aef0a49-6146-4d4f-b9e8-af1351842cec.jpg)
 [back to top][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41333f04-1607-496e-9c5e-c9d13a596f94.jpg)
 
