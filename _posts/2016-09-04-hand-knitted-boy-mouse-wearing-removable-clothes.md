@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-10-31T01:35:25.697Z'
+datePublished: '2018-10-31T01:35:43.676Z'
 sourcePath: _posts/2016-09-04-hand-knitted-boy-mouse-wearing-removable-clothes.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-10-31T01:35:23.901Z'
+dateModified: '2018-10-31T01:35:42.131Z'
 title: Boy Mouse
 publisher: {}
 description: ''
