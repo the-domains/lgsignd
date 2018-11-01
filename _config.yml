@@ -74,14 +74,14 @@ navigation:
   - name: 'LAMB sheep '
     id: 7c18940b-1a4a-4311-8817-d18c3c2d32db
     type: content
-  - name: ELEPHANT baby
-    id: cebfa2f6-4366-4640-bce1-aa94d5e996a2
-    type: content
   - name: LADYBIRD bug
     id: abbb9207-f4ec-4968-8029-e9b1c79571a4
     type: content
   - name: honey BEE
     id: a0829106-5a6a-4960-98ae-52301b4f42ae
+    type: content
+  - name: ELEPHANT baby
+    id: cebfa2f6-4366-4640-bce1-aa94d5e996a2
     type: content
   - name: 'LGsamiCrafts :: home'
     url: 'https://thegrid.ai/lgsamicrafts/'
