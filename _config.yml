@@ -59,14 +59,14 @@ navigation:
   - name: BUNNY rabbit
     id: 7d8a79c3-7e31-4cbb-b554-d55590a870dc
     type: content
+  - name: TEDDY bear
+    id: 364b47af-aecd-47be-b421-699709cac7ac
+    type: content
   - name: honey BEE
     id: a0829106-5a6a-4960-98ae-52301b4f42ae
     type: content
   - name: 'LADYBIRD '
     id: abbb9207-f4ec-4968-8029-e9b1c79571a4
-    type: content
-  - name: TEDDY bear
-    id: 364b47af-aecd-47be-b421-699709cac7ac
     type: content
   - name: boy MOUSE
     id: a9df4133-7470-425b-b4ed-eb1abe539e11
