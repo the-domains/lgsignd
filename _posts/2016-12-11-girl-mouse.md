@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-01T12:27:10.831Z'
-datePublished: '2018-11-01T12:27:12.484Z'
-title: GIRL Mouse
+dateModified: '2018-11-01T12:35:49.154Z'
+datePublished: '2018-11-01T12:35:50.145Z'
+title: GIRL mouse
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: girl-mouse/index.html
 _type: Article
 
 ---
-# GIRL Mouse
+# GIRL mouse
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84e90c3-deca-4333-a92e-02b3d7cd7ee9.jpg)
 
 ---
