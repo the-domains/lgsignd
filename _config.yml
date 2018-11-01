@@ -65,6 +65,9 @@ navigation:
   - name: girl MOUSE
     id: 52a99df8-1208-4c69-847f-31e186908db6
     type: content
+  - name: ANGEL
+    id: 1720eb9c-d6d8-41c5-95cf-cae522a8f1f6
+    type: content
   - name: BUNNY rabbit
     id: 7d8a79c3-7e31-4cbb-b554-d55590a870dc
     type: content
@@ -73,9 +76,6 @@ navigation:
     type: content
   - name: LADYBIRD bug
     id: abbb9207-f4ec-4968-8029-e9b1c79571a4
-    type: content
-  - name: ANGEL
-    id: 1720eb9c-d6d8-41c5-95cf-cae522a8f1f6
     type: content
   - name: 'LAMB sheep '
     id: 7c18940b-1a4a-4311-8817-d18c3c2d32db
