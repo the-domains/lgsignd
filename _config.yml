@@ -62,6 +62,9 @@ navigation:
   - name: TEDDY bear
     id: 364b47af-aecd-47be-b421-699709cac7ac
     type: content
+  - name: honey BEE
+    id: a0829106-5a6a-4960-98ae-52301b4f42ae
+    type: content
   - name: boy MOUSE
     id: a9df4133-7470-425b-b4ed-eb1abe539e11
     type: content
@@ -76,9 +79,6 @@ navigation:
     type: content
   - name: 'LAMB sheep '
     id: 7c18940b-1a4a-4311-8817-d18c3c2d32db
-    type: content
-  - name: honey BEE
-    id: a0829106-5a6a-4960-98ae-52301b4f42ae
     type: content
   - name: ELEPHANT baby
     id: cebfa2f6-4366-4640-bce1-aa94d5e996a2
