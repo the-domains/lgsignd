@@ -56,11 +56,11 @@ navigation:
   - name: ELF NISSE
     id: 461041a6-6e4d-4112-b731-17d190aadb90
     type: content
-  - name: TEDDY BEAR
-    id: 364b47af-aecd-47be-b421-699709cac7ac
-    type: content
   - name: bunny rabbit
     id: 7d8a79c3-7e31-4cbb-b554-d55590a870dc
+    type: content
+  - name: TEDDY BEAR
+    id: 364b47af-aecd-47be-b421-699709cac7ac
     type: content
   - name: 'lamb sheep '
     id: 7c18940b-1a4a-4311-8817-d18c3c2d32db
