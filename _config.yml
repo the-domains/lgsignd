@@ -53,6 +53,9 @@ navigation:
   - name: elf NISSE
     id: 461041a6-6e4d-4112-b731-17d190aadb90
     type: content
+  - name: LADYBIRD bug
+    id: abbb9207-f4ec-4968-8029-e9b1c79571a4
+    type: content
   - name: ELF gnome
     id: d19938e0-5089-4077-b97b-6de2728387af
     type: content
@@ -61,9 +64,6 @@ navigation:
     type: content
   - name: boy MOUSE
     id: a9df4133-7470-425b-b4ed-eb1abe539e11
-    type: content
-  - name: LADYBIRD bug
-    id: abbb9207-f4ec-4968-8029-e9b1c79571a4
     type: content
   - name: girl MOUSE
     id: 52a99df8-1208-4c69-847f-31e186908db6
