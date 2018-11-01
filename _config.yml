@@ -44,14 +44,14 @@ navigation:
   - name: PINK & BLUE
     id: ec6db6c8-d341-4ef9-80ae-7add7fb199b4
     type: content
-  - name: SANTA claus
-    id: f460536e-43cb-41bc-9df8-4f46bfaaf845
-    type: content
   - name: ELF gnome
     id: d19938e0-5089-4077-b97b-6de2728387af
     type: content
   - name: elf NISSE
     id: 461041a6-6e4d-4112-b731-17d190aadb90
+    type: content
+  - name: SANTA claus
+    id: f460536e-43cb-41bc-9df8-4f46bfaaf845
     type: content
   - name: SNOWman
     id: 56ffe300-1c57-4107-953f-2e038946be93
