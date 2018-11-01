@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-19T20:22:17.355Z'
-datePublished: '2018-10-19T20:22:18.888Z'
-title: Teddy Bear
+dateModified: '2018-11-01T12:35:07.925Z'
+datePublished: '2018-11-01T12:35:10.689Z'
+title: TEDDY bear
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: teddy-bear/index.html
 _type: Article
 
 ---
-# Teddy Bear
+# TEDDY bear
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c0106f4-a2c3-4b05-b28d-c7cdea5451e8.jpg)
 
 ---
