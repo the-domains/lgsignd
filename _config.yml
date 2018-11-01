@@ -74,11 +74,11 @@ navigation:
   - name: BUNNY rabbit
     id: 7d8a79c3-7e31-4cbb-b554-d55590a870dc
     type: content
-  - name: 'ELEPHANT '
-    id: cebfa2f6-4366-4640-bce1-aa94d5e996a2
-    type: content
   - name: 'LAMB sheep '
     id: 7c18940b-1a4a-4311-8817-d18c3c2d32db
+    type: content
+  - name: 'ELEPHANT '
+    id: cebfa2f6-4366-4640-bce1-aa94d5e996a2
     type: content
   - name: ANGEL
     id: 1720eb9c-d6d8-41c5-95cf-cae522a8f1f6
