@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-19T22:34:16.805Z'
-datePublished: '2018-10-19T22:34:17.749Z'
-title: Santa Claus
+dateModified: '2018-11-01T13:41:36.449Z'
+datePublished: '2018-11-01T13:41:37.828Z'
+title: SANTA CLAUS
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: santa-claus/index.html
 _type: Article
 
 ---
-# Santa Claus
+# SANTA CLAUS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a1bc52d-ab75-4c17-bbd0-578c7f770259.jpg)
 
 ---
