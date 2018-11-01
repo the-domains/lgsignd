@@ -50,11 +50,11 @@ navigation:
   - name: SNOWman
     id: 56ffe300-1c57-4107-953f-2e038946be93
     type: content
-  - name: ELF gnome
-    id: d19938e0-5089-4077-b97b-6de2728387af
-    type: content
   - name: elf NISSE
     id: 461041a6-6e4d-4112-b731-17d190aadb90
+    type: content
+  - name: ELF gnome
+    id: d19938e0-5089-4077-b97b-6de2728387af
     type: content
   - name: TEDDY bear
     id: 364b47af-aecd-47be-b421-699709cac7ac
@@ -65,14 +65,14 @@ navigation:
   - name: girl MOUSE
     id: 52a99df8-1208-4c69-847f-31e186908db6
     type: content
+  - name: BUNNY rabbit
+    id: 7d8a79c3-7e31-4cbb-b554-d55590a870dc
+    type: content
   - name: ELEPHANT baby
     id: cebfa2f6-4366-4640-bce1-aa94d5e996a2
     type: content
   - name: LADYBIRD bug
     id: abbb9207-f4ec-4968-8029-e9b1c79571a4
-    type: content
-  - name: BUNNY rabbit
-    id: 7d8a79c3-7e31-4cbb-b554-d55590a870dc
     type: content
   - name: ANGEL
     id: 1720eb9c-d6d8-41c5-95cf-cae522a8f1f6
