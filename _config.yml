@@ -50,11 +50,11 @@ navigation:
   - name: SNOWman
     id: 56ffe300-1c57-4107-953f-2e038946be93
     type: content
-  - name: elf NISSE
-    id: 461041a6-6e4d-4112-b731-17d190aadb90
-    type: content
   - name: ELF gnome
     id: d19938e0-5089-4077-b97b-6de2728387af
+    type: content
+  - name: elf NISSE
+    id: 461041a6-6e4d-4112-b731-17d190aadb90
     type: content
   - name: 'LADYBIRD '
     id: abbb9207-f4ec-4968-8029-e9b1c79571a4
