@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-11-01T12:33:04.220Z'
+datePublished: '2018-11-13T21:48:12.650Z'
 sourcePath: _posts/2016-09-04-hand-knitted-boy-mouse-wearing-removable-clothes.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-11-01T12:33:02.799Z'
+dateModified: '2018-11-13T21:48:09.135Z'
 title: boy MOUSE
 publisher: {}
 description: ''
@@ -23,7 +23,7 @@ _type: Article
 
 ## Handmade knitted **Boy Mouse** - stuffed animal toy wearing removable clothes. The eyes and the mouth are embroidered.
 
-* Height approx. 14.57 inches (37 cm)
+* **Height approx. **14.57 inches (37 cm)
 * **Yarn material :** 100% acryl
 * **Stuffing : **100% polyester fiber
 * Available **color combinations :**
