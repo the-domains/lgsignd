@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-01T13:46:19.086Z'
-datePublished: '2018-11-01T13:46:21.488Z'
+dateModified: '2018-11-13T23:09:18.592Z'
+datePublished: '2018-11-13T23:09:20.591Z'
 title: girl MOUSE
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Article
 
 ---
 
-## Handmade knitted **Girl Mouse **- stuffed animal doll wearing removable dress. The eyes and the mouth are embroidered.
+## Handmade knitted **GIRL MOUSE **- stuffed animal doll wearing removable dress. The eyes and the mouth are embroidered.
 
 * **Height approx. **14.57 inches (37 cm)
 * **Yarn material: **100% acryl
