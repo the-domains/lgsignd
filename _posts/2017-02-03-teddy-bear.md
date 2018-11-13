@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-13T21:53:38.770Z'
-datePublished: '2018-11-13T21:53:40.954Z'
+dateModified: '2018-11-13T23:06:35.889Z'
+datePublished: '2018-11-13T23:06:36.993Z'
 title: TEDDY bear
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Article
 
 ---
 
-## Handmade knitted **Teddy Bear **- stuffed animal toy wearing removable skirt or trousers. The eyes and the mouth are embroidered.
+## Hand knitted **TEDDY BEAR **- stuffed animal toy wearing removable skirt or trousers. The eyes and the mouth are embroidered.
 
 * **Height approx.** 16,53 inches (42 cm)
 * **Yarn material:** 60% cotton, 20% viscose, 20% acryl
