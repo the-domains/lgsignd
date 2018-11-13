@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-01T12:35:07.925Z'
-datePublished: '2018-11-01T12:35:10.689Z'
+dateModified: '2018-11-13T21:53:38.770Z'
+datePublished: '2018-11-13T21:53:40.954Z'
 title: TEDDY bear
 author: []
 publisher: {}
@@ -26,8 +26,8 @@ _type: Article
 * **Yarn material:** 60% cotton, 20% viscose, 20% acryl
 * **Stuffing:** 100% polyester
 * Available **color combinations:**
-  1. off white - old rose (skirt)
-  2. brown - turquoise (skirt)
+  1. brown - turquoise (skirt)
+  2. off white - old rose (skirt)
   3. cream - dark bordeaux (trousers)
   4. brown - light blue
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b61592fb-4441-4327-8984-3226b2f60ca0.jpg)
