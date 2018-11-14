@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-14T00:44:41.411Z'
-datePublished: '2018-11-14T00:44:43.659Z'
+dateModified: '2018-11-14T14:09:43.081Z'
+datePublished: '2018-11-14T14:09:45.078Z'
 title: SANTA claus
 author: []
 publisher: {}
@@ -54,5 +54,6 @@ Real Beard SANTA
 
 [back to top][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5ec2c6-e664-40e2-908f-e0bd685cdc81.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e789fef-5f5b-4399-a758-2431b1d970eb.jpg)
 
 [0]: https://thegrid.ai/lgsignd/santa-claus/
