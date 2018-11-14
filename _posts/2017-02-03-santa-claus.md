@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-14T14:24:48.849Z'
-datePublished: '2018-11-14T14:24:50.684Z'
+dateModified: '2018-11-14T14:34:57.729Z'
+datePublished: '2018-11-14T14:35:00.413Z'
 title: SANTA claus
 author: []
 publisher: {}
@@ -34,7 +34,6 @@ _type: Article
 
 Real Beard SANTA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80a0f120-b428-4454-9f39-302592a3a1e5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e789fef-5f5b-4399-a758-2431b1d970eb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a674f8ec-1e24-4140-990c-e2981e24b39a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b42ed13e-47a7-4780-b983-ba823568d4b8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb0ae338-3db7-45ce-903e-2b88f4e889dd.jpg)
@@ -55,5 +54,6 @@ Real Beard SANTA
 
 [back to top][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5ec2c6-e664-40e2-908f-e0bd685cdc81.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72639a60-017b-46ba-8132-88386e0c62cb.jpg)
 
 [0]: https://thegrid.ai/lgsignd/santa-claus/
