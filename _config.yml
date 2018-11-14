@@ -50,7 +50,7 @@ navigation:
   - name: SNOWman
     id: 56ffe300-1c57-4107-953f-2e038946be93
     type: content
-  - name: elf GNOME
+  - name: ELF gnome
     id: d19938e0-5089-4077-b97b-6de2728387af
     type: content
   - name: ELF NISSE
