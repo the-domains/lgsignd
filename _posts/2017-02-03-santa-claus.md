@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-11-01T14:43:27.702Z'
-datePublished: '2018-11-01T14:43:29.465Z'
+dateModified: '2018-11-14T00:44:41.411Z'
+datePublished: '2018-11-14T00:44:43.659Z'
 title: SANTA claus
 author: []
 publisher: {}
@@ -20,12 +20,13 @@ _type: Article
 
 ---
 
-## Handmade knitted**Santa Claus** wearing removable clothes. The eyes and the mouth are embroidered.
+## Handmade knitted**SANTA CLAUS** wearing removable clothes. The eyes and the mouth are embroidered.
 
-* **Height approx.** 15.35 inches (39 cm)
-* **Yarn material:** 100% acryl
-* **Stuffing:** 100% polyester fiber
-* Available in**two shades of red:**
+* **Height approx.** 15,35 inches (39 cm)
+* **Yarn material :**
+  * Body & Clothes = 100% acryl
+* **Stuffing :** 100% polyester fiber
+* Available in**two shades of red :**
   1. dark bordeaux
   2. dark red
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f788cc22-67f9-4159-a6ce-9e880800a63a.jpg)
